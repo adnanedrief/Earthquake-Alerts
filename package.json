@@ -1,0 +1,27 @@
+{
+  "name": "earthquake-alerts-discord-bot",
+  "version": "1.0.0",
+  "description": "This is a Discord bot that provides earthquake alerts to its users",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adnanedrief/Earthquake-Alerts.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Adnane Drief",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adnanedrief/Earthquake-Alerts/issues"
+  },
+  "homepage": "https://github.com/adnanedrief/Earthquake-Alerts#readme",
+  "dependencies": {
+    "axios": "^1.3.5",
+    "discord.js": "^13.15.1",
+    "nodemon": "^2.0.22"
+  }
+}
